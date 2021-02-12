@@ -21,7 +21,9 @@
 	"settings": {
 		// "terminal.integrated.shell.linux": "/bin/bash",
 		"terminal.integrated.shell.linux": "/bin/zsh",
-		"java.home": "/docker-java-home"
+		"java.home": "/docker-java-home",
+		"editor.fontFamily": "Menlo for Powerline",
+		"terminal.integrated.fontSize": 14
 	},
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
